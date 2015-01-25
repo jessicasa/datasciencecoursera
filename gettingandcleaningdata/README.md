@@ -25,11 +25,4 @@ This repository contains the following:
 * A codebook, CodeBook.md, describing the variables, the data, and the transformations performed to clean up the data
 * This README.md file explaining how the script works
 * My tidy dataset file, tidydata.txt
-
-Table 1 reorganizes raw data to make the values, variables and observations more clear. The
-dataset contains ? values representing three variables and ?? observations. The variables
-are:
-1. Subjects, with ? possible values (John Smith, Mary Johnson, and Jane Doe).
-2. Activities, with ? possible values (a and b).
-3. Readings, with ? values depending on how you think of the missing value (|,
-16, 3, 2, 11, 1).
+Open runanalysis.R to see the commands to reproduce the tidy data set.
