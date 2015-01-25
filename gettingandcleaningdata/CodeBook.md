@@ -3,9 +3,9 @@
 This tidy data set is derived from the "Human Activity Recognition Using Smartphones Dataset Version 1.0" by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto from Smartlab - Non Linear Complex Systems Laboratory.
 
 The tidy data set follows Hadley Wickham's rules for tidy data:
-    1. Each variable forms a column.
-    2. Each observation forms a row.
-    3. Each type of observational unit forms a table.
+        1. Each variable forms a column.
+        2. Each observation forms a row.
+        3. Each type of observational unit forms a table.
 
 ##Variable Names and Descriptions
 
