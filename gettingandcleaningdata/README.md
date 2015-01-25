@@ -25,4 +25,5 @@ This repository contains the following:
 * A codebook, CodeBook.md, describing the variables, the data, and the transformations performed to clean up the data
 * This README.md file explaining how the script works
 * My tidy dataset file, tidydata.txt
+
 Open runanalysis.R to see the commands to reproduce the tidy data set.
