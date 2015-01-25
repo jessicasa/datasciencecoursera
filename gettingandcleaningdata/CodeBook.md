@@ -99,4 +99,4 @@ The tidy data set follows Hadley Wickham's rules for tidy data:
                 fbodygyromagmean
                 fbodygyromagstd
                 fbodygyrojerkmagmean
-        fbodygyrojerkmagstd
+                fbodygyrojerkmagstd
