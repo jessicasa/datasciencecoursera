@@ -24,5 +24,71 @@ This tidy data set is derived from the "Human Activity Recognition Using Smartph
     jerk
     magnitude (Mag)
     mean(mean) or standard deviation(std)
-    axis (X,Y,Z)
-        
+    axis (x,y,z)
+        Values are:
+        tbodyaccmeanx
+        tbodyaccmeany
+        tbodyaccmeanz
+        tbodyaccstdx
+        tbodyaccstdy
+        tbodyaccstdz
+        tgravityaccmeanx
+        tgravityaccmeany
+        tgravityaccmeanz
+        tgravityaccstdx
+        tgravityaccstdy
+        tgravityaccstdz
+        tbodyaccjerkmeanx
+        tbodyaccjerkmeany
+        tbodyaccjerkmeanz
+        tbodyaccjerkstdx
+        tbodyaccjerkstdy
+        tbodyaccjerkstdz
+        tbodygyromeanx
+        tbodygyromeany
+        tbodygyromeanz
+        tbodygyrostdx 
+        tbodygyrostdy
+        tbodygyrostdz
+        tbodygyrojerkmeanx
+        tbodygyrojerkmeany
+        tbodygyrojerkmeanz
+        tbodygyrojerkstdx
+        tbodygyrojerkstdy
+        tbodygyrojerkstdz
+        tbodyaccmagmean
+        tbodyaccmagstd
+        tgravityaccmagmean
+        tgravityaccmagstd
+        tbodyaccjerkmagmean
+        tbodyaccjerkmagstd
+        tbodygyromagmean
+        tbodygyromagstd
+        tbodygyrojerkmagmean
+        tbodygyrojerkmagstd
+        fbodyaccmeanx
+        fbodyaccmeany
+        fbodyaccmeanz
+        fbodyaccstdx
+        fbodyaccstdy
+        fbodyaccstdz
+        fbodyaccjerkmeanx
+        fbodyaccjerkmeany
+        fbodyaccjerkmeanz
+        fbodyaccjerkstdx
+        fbodyaccjerkstdy
+        fbodyaccjerkstdz
+        fbodygyromeanx
+        fbodygyromeany
+        fbodygyromeanz
+        fbodygyrostdx
+        fbodygyrostdy
+        fbodygyrostdz
+        fbodyaccmagmean
+        fbodyaccmagstd
+        fbodyaccjerkmagmean
+        fbodyaccjerkmagstd
+        fbodygyromagmean
+        fbodygyromagstd
+        fbodygyrojerkmagmean
+        fbodygyrojerkmagstd
