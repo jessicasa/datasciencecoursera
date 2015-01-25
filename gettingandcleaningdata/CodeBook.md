@@ -17,4 +17,12 @@ This tidy data set is derived from the "Human Activity Recognition Using Smartph
         laying
 
 ###feature variables
-    Each feature name contains information pertaining to the domain signals (time(t) and frequency(f)), acceleration signal (body, gravity), sensor signals (accelerometer(acc), gyroscope(gyro)), jerk, magnitude (Mag), mean(mean) or standard deviation(std), axis (X,Y, or Z)
+    Each feature name contains information pertaining to:
+    domain signals (time(t) and frequency(f))
+    acceleration signal (body, gravity)
+    sensor signals (accelerometer(acc), gyroscope(gyro))
+    jerk
+    magnitude (Mag)
+    mean(mean) or standard deviation(std)
+    axis (X,Y,Z)
+        
