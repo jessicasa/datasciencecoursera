@@ -26,4 +26,4 @@ This repository contains the following:
 * This README.md file explaining how the script works
 * My tidy dataset file, tidydata.txt
 
-Open runanalysis.R to see the commands to reproduce the tidy data set.
+Open run_analysis.R to see the commands to reproduce the tidy data set.
