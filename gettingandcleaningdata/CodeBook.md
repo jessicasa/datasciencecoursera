@@ -23,18 +23,19 @@ The tidy data set follows Hadley Wickham's rules for tidy data:
         laying
 
 ###feature variables
-    Each feature is normalized and bounded, therefore there are no units. The feature name contains information pertaining to:
-    domain signals (time(t) and frequency(f))
-    acceleration signal (body, gravity)
-    sensor signals (accelerometer(acc), gyroscope(gyro))
-    jerk
-    magnitude (Mag)
-    mean(mean) or standard deviation(std)
-    axis (x,y,z)
-        Each observational unit falls in to these variables:
-        tbodyaccmeanx
-        tbodyaccmeany
-        tbodyaccmeanz
+    Each feature is normalized and bounded, therefore there are no units.
+    The feature name contains information pertaining to:
+        domain signals (time(t) and frequency(f))
+        acceleration signal (body, gravity)
+        sensor signals (accelerometer(acc), gyroscope(gyro))
+        jerk
+        magnitude (Mag)
+        mean(mean) or standard deviation(std)
+        axis (x,y,z)
+                Each observational unit falls in to these variables:
+                tbodyaccmeanx
+                tbodyaccmeany
+                tbodyaccmeanz
         tbodyaccstdx
         tbodyaccstdy
         tbodyaccstdz
